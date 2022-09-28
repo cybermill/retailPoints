@@ -1,0 +1,39 @@
+.pointCardContainer {
+  padding: 20px;
+}
+
+.pointCardHeading {
+  padding-bottom: 10px;
+}
+
+.pointCardBody {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+  grid-gap: 15px;
+}
+
+.transactionContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-top: lightBlue solid 10px;
+  padding: 20px;
+}
+
+.transactionContainer:nth-child(odd) {
+  border-top: #85144b solid 10px;
+}
+
+.transactionDetailsContainer {
+  padding: 10px;
+  text-align: left;
+}
+
+.totalPointsSummaryText {
+  text-align: left;
+  padding: 10px;
+  position: relative;
+  bottom: 0;
+}

@@ -1,0 +1,10 @@
+.wrapperContainer {
+  height: 100%;
+  width: 100%;
+  padding: 20px;
+}
+
+.wrapperContent {
+  display: flex;
+  flex-direction: column;
+}

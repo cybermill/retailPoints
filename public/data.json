@@ -1,0 +1,69 @@
+[
+  {
+    "customerName": "Bob Smith",
+    "purchaseAmount": 125,
+    "purchaseDate": "01/10/2022",
+    "transactionID": 1
+  },
+  {
+    "customerName": "Bob Smith",
+    "purchaseAmount": 200,
+    "purchaseDate": "01/20/2022",
+    "transactionID": 2
+  },
+  {
+    "customerName": "Bob Smith",
+    "purchaseAmount": 75,
+    "purchaseDate": "02/11/2022",
+    "transactionID": 3
+  },
+  {
+    "customerName": "Bob Smith",
+    "purchaseAmount": 102,
+    "purchaseDate": "02/13/2022",
+    "transactionID": 11
+  },
+  {
+    "customerName": "Bob Smith",
+    "purchaseAmount": 75,
+    "purchaseDate": "03/11/2022",
+    "transactionID": 4
+  },
+  {
+    "customerName": "Bob Smith",
+    "purchaseAmount": 75,
+    "purchaseDate": "03/11/2022",
+    "transactionID": 5
+  },
+  {
+    "customerName": "Bob Smith",
+    "purchaseAmount": 75,
+    "purchaseDate": "03/18/2022",
+    "transactionID": 6
+  },
+
+  {
+    "customerName": "James Griffith",
+    "purchaseAmount": 49,
+    "purchaseDate": "01/02/2022",
+    "transactionID": 7
+  },
+  {
+    "customerName": "James Griffith",
+    "purchaseAmount": 201,
+    "purchaseDate": "02/20/2022",
+    "transactionID": 8
+  },
+  {
+    "customerName": "James Griffith",
+    "purchaseAmount": 55,
+    "purchaseDate": "02/22/2022",
+    "transactionID": 9
+  },
+  {
+    "customerName": "James Griffith",
+    "purchaseAmount": 75,
+    "purchaseDate": "03/01/2022",
+    "transactionID": 10
+  }
+]
