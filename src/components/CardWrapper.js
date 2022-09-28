@@ -92,7 +92,9 @@ export default function CardWrapper() {
   return (
     <div className="wrapperContainer">
       {isLoading ? (
-        "Loading..."
+        <div className="wrapperLoadingIndicator">
+          <h3 className="pulse">Loading...</h3>
+        </div>
       ) : (
         <div className="wrapperContent">
           {transformedDataRecords?.map((record, index) => {
